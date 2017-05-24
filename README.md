@@ -1,2 +1,2 @@
-# python_yy
-hello world
+# A small bite of Python
+Hello World!
